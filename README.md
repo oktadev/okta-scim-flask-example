@@ -1,7 +1,7 @@
 # Flask SCIM Server (Configured for use with Okta)
 **NOTE:** This is not meant to be a fully-fledged, IDP-agnostic SCIM server. This server was designed specifically to integrate with Okta.
 
-Please read [Okta, SCIM and Flask][blog-post] to see how this app was created.
+Please read [How to Build a Flask SCIM Server Configured for Use with Okta][blog-post] to see how this app was created.
 
 * [Dependencies](#dependencies)
 * [Getting Started](#getting-started)
@@ -121,4 +121,4 @@ Please post any questions as comments on the [blog post], or visit our [Okta Dev
 
 Apache 2.0, see [LICENSE](LICENSE).
 
-[blog-post]: https://developer.okta.com/blog/TBD "Okta, SCIM and Flask"
+[blog-post]: https://developer.okta.com/blog/2021/09/01/flask-scim-server "How to Build a Flask SCIM Server Configured for Use with Okta"
